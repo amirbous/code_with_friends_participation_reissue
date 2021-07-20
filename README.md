@@ -1,4 +1,4 @@
-# code_with_friends_participation_reissue
+# code_with_friends_hackathon_participation_reissue
 
  <h4> Original Submission: </h4>
 <p>https://github.com/ScottKwang/CodeWithFriends-Spring2020/tree/master/projects/lamirb591</p>
