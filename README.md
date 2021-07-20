@@ -1,4 +1,10 @@
 # code_with_friends_participation_reissue
+
+ <h5> Original Submission: </h5>
+<p>https://github.com/ScottKwang/CodeWithFriends-Spring2020/tree/master/projects/lamirb591</p>
+<p> </p>
+<p> </p>
+
 evaluation app, to track the quality of life of an individual and the way he is spending his days during the pandemic
 
 
